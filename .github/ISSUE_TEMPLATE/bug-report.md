@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a report to help Nexium improve in the future
 title: My Nexium is buggy
-labels: bug
+labels: bug, enhancement
 assignees: ''
 
 ---
@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots or Video**
 If applicable, add screenshots to help explain your problem.
 
 **Minecraft (please complete the following information):**
