@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a report to help Nexium improve in the future
 title: My Nexium is buggy
-labels: bug, enhancement
+labels: bug
 assignees: ''
 
 ---
